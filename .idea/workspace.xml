@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="251fbe0d-16c9-450b-a16a-6fd0c728a95a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/SumaDeCifras.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ContarCerosArreglo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/ContarCerosArreglo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +36,7 @@
   "keyToString": {
     "Application.CantidadCifras.executor": "Run",
     "Application.ContarCerosArreglo.executor": "Run",
+    "Application.SumaDeCifras.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -59,7 +60,7 @@
       <updated>1708212975128</updated>
       <workItem from="1708212976294" duration="3704000" />
       <workItem from="1708218370681" duration="18000" />
-      <workItem from="1708231592413" duration="2161000" />
+      <workItem from="1708231592413" duration="3658000" />
     </task>
     <servers />
   </component>
