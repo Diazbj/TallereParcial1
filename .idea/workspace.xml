@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="251fbe0d-16c9-450b-a16a-6fd0c728a95a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/RecorrerArreglo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/RecorrerMatriz.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/CantidadCifras.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/CantidadCifras.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +39,7 @@
     "Application.NumeroDeApariciones.executor": "Run",
     "Application.NumeroMenorArreglo.executor": "Run",
     "Application.RecorrerArreglo.executor": "Run",
+    "Application.RecorrerMatriz.executor": "Run",
     "Application.SumaDeCifras.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -77,11 +77,32 @@
       <workItem from="1708410674743" duration="1927000" />
       <workItem from="1708470584439" duration="212000" />
       <workItem from="1708470839504" duration="99000" />
-      <workItem from="1708586222972" duration="2103000" />
+      <workItem from="1708586222972" duration="4871000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/RecorrerMatriz.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/RecorrerMatriz.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/RecorrerMatriz.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
