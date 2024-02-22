@@ -7,7 +7,7 @@ public class CantidadCifras {
 
         int n=1234567891;
         int cifras=CalcularCantidadCifras(n);
-        System.out.println(cifras);
+        System.out.println();
 
     }
 
