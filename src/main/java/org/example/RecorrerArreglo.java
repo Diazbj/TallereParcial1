@@ -21,7 +21,7 @@ public class RecorrerArreglo {
 
     }
 
-    private static int[] ArregloInvertido(int[] arreglo, int indice,int tamaño,int[] arregloFinal) {
+    public static int[] ArregloInvertido(int[] arreglo, int indice,int tamaño,int[] arregloFinal) {
 
 
 
