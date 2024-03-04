@@ -5,6 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="251fbe0d-16c9-450b-a16a-6fd0c728a95a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Backtraking/Laberinto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/MatrizRetrocediendo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ReccorrerMatriz2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/SumaDeDiagonal9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,31 +35,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.CantidadCifras.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ContarCerosArreglo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.InvertirPalabra.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NumeroDeApariciones.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NumeroMenorArreglo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RecorrerArreglo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RecorrerMatriz.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SumaDeCifras.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;Jordy-Portatil&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/DiazJ/Documents/Universidad/Programacion 3/GitHub/Talleres/TallereParcial1&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/DiazJ/Documents/Universidad/Programacion 3/GitHub/Talleres/TallereParcial1/src/main/java/org/example/Main.java&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.CantidadCifras.executor": "Run",
+    "Application.ContarCerosArreglo.executor": "Run",
+    "Application.InvertirPalabra.executor": "Run",
+    "Application.Laberinto.executor": "Run",
+    "Application.MatrizRetrocediendo.executor": "Run",
+    "Application.NumeroDeApariciones.executor": "Run",
+    "Application.NumeroMenorArreglo.executor": "Run",
+    "Application.ReccorrerMatriz2.executor": "Debug",
+    "Application.RecorrerArreglo.executor": "Run",
+    "Application.RecorrerMatriz.executor": "Run",
+    "Application.SumaDeCifras.executor": "Run",
+    "Application.SumaDeDiagonal8.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "Jordy-Portatil",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/DiazJ/Documents/Universidad/Programacion 3/GitHub/Talleres/TallereParcial1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/DiazJ/Documents/Universidad/Programacion 3/GitHub/Talleres/TallereParcial1/src/main/java/org/example/Main.java",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -86,10 +94,23 @@
       <workItem from="1708655400561" duration="151000" />
       <workItem from="1708673235344" duration="31000" />
       <workItem from="1709014856063" duration="18000" />
+      <workItem from="1709020802081" duration="4309000" />
+      <workItem from="1709079317533" duration="1785000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/SumaDeDiagonal9.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
