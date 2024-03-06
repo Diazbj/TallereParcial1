@@ -2,7 +2,7 @@ package org.example;
 
 import java.util.Arrays;
 
-public class RecorrerArreglo {
+public class RecorrerArreglo6 {
 
     public static void main(String[] args){
 

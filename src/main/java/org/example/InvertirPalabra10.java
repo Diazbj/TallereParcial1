@@ -1,8 +1,6 @@
 package org.example;
 
-import java.util.Arrays;
-
-public class InvertirPalabra {
+public class InvertirPalabra10 {
 
     public static void main(String[] args){
 

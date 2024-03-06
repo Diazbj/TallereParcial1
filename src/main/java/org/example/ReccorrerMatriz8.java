@@ -1,6 +1,6 @@
 package org.example;
 
-public class ReccorrerMatriz2 {
+public class ReccorrerMatriz8 {
 
     public static void main(String[] args) {
 
