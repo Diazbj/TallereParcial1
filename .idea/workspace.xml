@@ -4,21 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-<<<<<<< Updated upstream
-<<<<<<< HEAD
-    <list default="true" id="251fbe0d-16c9-450b-a16a-6fd0c728a95a" name="Changes" comment="" />
-=======
-    <list default="true" id="251fbe0d-16c9-450b-a16a-6fd0c728a95a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/NumeroVector14.java" afterDir="false" />
+    <list default="true" id="f55646bc-8b5d-4fc4-9d42-a170d0b62398" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/FilaMayor17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/MatrizSimetrica16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/NumeroPrimo19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/PromedioDiagonal15.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/DigonalMatriz13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/DigonalMatriz13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/NumeroVector14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/NumeroVector14.java" afterDir="false" />
     </list>
->>>>>>> 12a0f2b6b153842f8a1b862f7533ee6569fa9cb8
-=======
-    <list default="true" id="251fbe0d-16c9-450b-a16a-6fd0c728a95a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
->>>>>>> Stashed changes
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,272 +21,66 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
-        <option value="Kotlin File" />
       </list>
     </option>
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 5
-}</component>
-  <component name="ProjectId" id="2cW2NPj2dgOckSpBHzJwc1cZWMc" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-<<<<<<< Updated upstream
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.CantidadCifras.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ContarCerosArreglo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DigonalMatriz13.executor&quot;: &quot;Run&quot;,
-    &quot;Application.InvertirPalabra.executor&quot;: &quot;Run&quot;,
-    &quot;Application.InvertirPalabra10.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Laberinto.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MatrizRetrocediendo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NDados.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NumeroDeApariciones.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NumeroMenorArreglo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PotenciaNumero12.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ReccorrerMatriz2.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.ReccorrerMatriz8.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.RecorrerArreglo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RecorrerMatriz.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SumaDeCifras.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SumaDeDiagonal8.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SumaDeDiagonal9.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SumaMatriz11.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;Jordy-Portatil&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/DiazJ/Documents/Universidad/Programacion 3/GitHub/Talleres/TallereParcial1&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/DiazJ/Documents/Universidad/Programacion 3/GitHub/Talleres/TallereParcial1/src/main/java/org/example/Main.java&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
-=======
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Application.CantidadCifras.executor": "Run",
-    "Application.ContarCerosArreglo.executor": "Run",
-    "Application.NumeroDeApariciones.executor": "Run",
-    "Application.NumeroMenorArreglo.executor": "Run",
-    "Application.SumaDeCifras.executor": "Run",
+    "Application.FilaMayor17.executor": "Run",
+    "Application.MatrizSimetrica16.executor": "Run",
+    "Application.NumeroPrimo19.executor": "Run",
+    "Application.NumeroVector14.executor": "Run",
+    "Application.PromedioDiagonal15.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/DiazJ/Documents/Universidad/Programacion 3/GitHub/Talleres/TallereParcial1/src/main/java/org/example/Main.java",
-    "project.structure.last.edited": "SDKs",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "reference.settingsdialog.project.gant",
     "vue.rearranger.settings.migration": "true"
->>>>>>> Stashed changes
   }
-}</component>
-  <component name="RunManager" selected="Application.DigonalMatriz13">
-    <configuration name="DigonalMatriz13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.DigonalMatriz13" />
-      <module name="TallereParcial1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="InvertirPalabra10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.InvertirPalabra10" />
-      <module name="TallereParcial1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PotenciaNumero12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.PotenciaNumero12" />
-      <module name="TallereParcial1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReccorrerMatriz8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.ReccorrerMatriz8" />
-      <module name="TallereParcial1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SumaMatriz11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.SumaMatriz11" />
-      <module name="TallereParcial1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.DigonalMatriz13" />
-        <item itemvalue="Application.PotenciaNumero12" />
-        <item itemvalue="Application.SumaMatriz11" />
-        <item itemvalue="Application.ReccorrerMatriz8" />
-        <item itemvalue="Application.InvertirPalabra10" />
-      </list>
-    </recent_temporary>
-  </component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
-      </set>
-    </attachedChunks>
-  </component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="251fbe0d-16c9-450b-a16a-6fd0c728a95a" name="Changes" comment="" />
-      <created>1708212975128</created>
+      <changelist id="f55646bc-8b5d-4fc4-9d42-a170d0b62398" name="Changes" comment="" />
+      <created>1709789923231</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1708212975128</updated>
-      <workItem from="1708212976294" duration="3704000" />
-      <workItem from="1708218370681" duration="18000" />
-      <workItem from="1708231592413" duration="7774000" />
-<<<<<<< Updated upstream
-<<<<<<< HEAD
-      <workItem from="1708410674743" duration="2527000" />
-=======
-      <workItem from="1708410674743" duration="1927000" />
-      <workItem from="1708470584439" duration="212000" />
-      <workItem from="1708470839504" duration="99000" />
-      <workItem from="1708586222972" duration="4917000" />
-      <workItem from="1708634430159" duration="456000" />
-      <workItem from="1708635644113" duration="63000" />
-      <workItem from="1708642698719" duration="2004000" />
-      <workItem from="1708650075562" duration="192000" />
-      <workItem from="1708654539039" duration="298000" />
-      <workItem from="1708655400561" duration="151000" />
-      <workItem from="1708673235344" duration="31000" />
-      <workItem from="1709014856063" duration="18000" />
-      <workItem from="1709020802081" duration="4309000" />
-      <workItem from="1709079317533" duration="1785000" />
-      <workItem from="1709537866814" duration="2753000" />
-      <workItem from="1709575829235" duration="3271000" />
-      <workItem from="1709583049471" duration="4475000" />
-      <workItem from="1709613530840" duration="9384000" />
-      <workItem from="1709666548978" duration="5000" />
-      <workItem from="1709707736181" duration="1660000" />
->>>>>>> 12a0f2b6b153842f8a1b862f7533ee6569fa9cb8
-=======
-      <workItem from="1708410674743" duration="2543000" />
-      <workItem from="1708924719817" duration="9000" />
-      <workItem from="1708930516799" duration="1152000" />
->>>>>>> Stashed changes
+      <updated>1709789923231</updated>
+      <workItem from="1709789925664" duration="10567000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-<<<<<<< Updated upstream
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/SumaMatriz11.java</url>
-          <line>16</line>
-          <properties class="org.example.SumaMatriz11" method="SumarElementosMatriz">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="17" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/PotenciaNumero12.java</url>
-          <line>11</line>
-          <properties class="org.example.PotenciaNumero12" method="CalcularPotencia">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="21" />
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/NumeroPrimo19.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/SumaMatriz11.java</url>
-          <line>22</line>
-          <option name="timeStamp" value="18" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/SumaMatriz11.java</url>
-          <line>32</line>
-          <option name="timeStamp" value="19" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/SumaMatriz11.java</url>
-          <line>26</line>
-          <option name="timeStamp" value="20" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/PotenciaNumero12.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/NumeroPrimo19.java</url>
           <line>13</line>
-          <option name="timeStamp" value="22" />
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/PotenciaNumero12.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/NumeroPrimo19.java</url>
           <line>15</line>
-          <option name="timeStamp" value="23" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/PotenciaNumero12.java</url>
-          <line>18</line>
-          <option name="timeStamp" value="24" />
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-=======
-  <component name="XSLT-Support.FileAssociations.UIState">
-    <expand />
-    <select />
->>>>>>> Stashed changes
   </component>
 </project>
