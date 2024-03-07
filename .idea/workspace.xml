@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="251fbe0d-16c9-450b-a16a-6fd0c728a95a" name="Changes" comment="" />
+    <list default="true" id="9352a0c0-13d6-478b-ac4b-d45a2adc88db" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/FilaMayor17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/MatrizSimetrica16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/NumeroPrimo19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/PromedioDiagonal15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/NumeroVector14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/NumeroVector14.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,49 +27,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 5
-}</component>
-  <component name="ProjectId" id="2cW2NPj2dgOckSpBHzJwc1cZWMc" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2dN1bh43QdeHaWr3fcWot7QA7A1" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Application.CantidadCifras.executor": "Run",
-    "Application.ContarCerosArreglo.executor": "Run",
-    "Application.DigonalMatriz13.executor": "Run",
-    "Application.InvertirPalabra.executor": "Run",
-    "Application.InvertirPalabra10.executor": "Run",
-    "Application.Laberinto.executor": "Run",
-    "Application.MatrizRetrocediendo.executor": "Run",
-    "Application.NDados.executor": "Run",
-    "Application.NumeroDeApariciones.executor": "Run",
-    "Application.NumeroMenorArreglo.executor": "Run",
-    "Application.PotenciaNumero12.executor": "Run",
-    "Application.ReccorrerMatriz2.executor": "Debug",
-    "Application.ReccorrerMatriz8.executor": "Debug",
-    "Application.RecorrerArreglo.executor": "Run",
-    "Application.RecorrerMatriz.executor": "Run",
-    "Application.SumaDeCifras.executor": "Run",
-    "Application.SumaDeDiagonal8.executor": "Run",
-    "Application.SumaDeDiagonal9.executor": "Run",
-    "Application.SumaMatriz11.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/DiazJ/Documents/Universidad/Programacion 3/GitHub/Talleres/TallereParcial1",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/DiazJ/Documents/Universidad/Programacion 3/GitHub/Talleres/TallereParcial1/src/main/java/org/example/Main.java",
-    "vue.rearranger.settings.migration": "true"
+    "git-widget-placeholder": "Merging master"
   }
 }]]></component>
   <component name="RunManager" selected="Application.DigonalMatriz13">
@@ -141,44 +117,15 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
-      </set>
-    </attachedChunks>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="251fbe0d-16c9-450b-a16a-6fd0c728a95a" name="Changes" comment="" />
-      <created>1708212975128</created>
+      <changelist id="f55646bc-8b5d-4fc4-9d42-a170d0b62398" name="Changes" comment="" />
+      <created>1709789923231</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1708212975128</updated>
-      <workItem from="1708212976294" duration="3704000" />
-      <workItem from="1708218370681" duration="18000" />
-      <workItem from="1708231592413" duration="7774000" />
-      <workItem from="1708410674743" duration="1927000" />
-      <workItem from="1708470584439" duration="212000" />
-      <workItem from="1708470839504" duration="99000" />
-      <workItem from="1708586222972" duration="4917000" />
-      <workItem from="1708634430159" duration="456000" />
-      <workItem from="1708635644113" duration="63000" />
-      <workItem from="1708642698719" duration="2004000" />
-      <workItem from="1708650075562" duration="192000" />
-      <workItem from="1708654539039" duration="298000" />
-      <workItem from="1708655400561" duration="151000" />
-      <workItem from="1708673235344" duration="31000" />
-      <workItem from="1709014856063" duration="18000" />
-      <workItem from="1709020802081" duration="4309000" />
-      <workItem from="1709079317533" duration="1785000" />
-      <workItem from="1709537866814" duration="2753000" />
-      <workItem from="1709575829235" duration="3271000" />
-      <workItem from="1709583049471" duration="4475000" />
-      <workItem from="1709613530840" duration="9384000" />
-      <workItem from="1709666548978" duration="5000" />
-      <workItem from="1709707736181" duration="1660000" />
+      <updated>1709789923231</updated>
+      <workItem from="1709789925664" duration="10567000" />
     </task>
     <servers />
   </component>
@@ -188,53 +135,20 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/SumaMatriz11.java</url>
-          <line>16</line>
-          <properties class="org.example.SumaMatriz11" method="SumarElementosMatriz">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="17" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/PotenciaNumero12.java</url>
-          <line>11</line>
-          <properties class="org.example.PotenciaNumero12" method="CalcularPotencia">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="21" />
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/NumeroPrimo19.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/SumaMatriz11.java</url>
-          <line>22</line>
-          <option name="timeStamp" value="18" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/SumaMatriz11.java</url>
-          <line>32</line>
-          <option name="timeStamp" value="19" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/SumaMatriz11.java</url>
-          <line>26</line>
-          <option name="timeStamp" value="20" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/PotenciaNumero12.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/NumeroPrimo19.java</url>
           <line>13</line>
-          <option name="timeStamp" value="22" />
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/PotenciaNumero12.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/NumeroPrimo19.java</url>
           <line>15</line>
-          <option name="timeStamp" value="23" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/PotenciaNumero12.java</url>
-          <line>18</line>
-          <option name="timeStamp" value="24" />
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
