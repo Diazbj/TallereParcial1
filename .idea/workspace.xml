@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="251fbe0d-16c9-450b-a16a-6fd0c728a95a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/NumeroVector14.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/DigonalMatriz13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/DigonalMatriz13.java" afterDir="false" />
-    </list>
+    <list default="true" id="251fbe0d-16c9-450b-a16a-6fd0c728a95a" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,42 +29,42 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.CantidadCifras.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ContarCerosArreglo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DigonalMatriz13.executor&quot;: &quot;Run&quot;,
-    &quot;Application.InvertirPalabra.executor&quot;: &quot;Run&quot;,
-    &quot;Application.InvertirPalabra10.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Laberinto.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MatrizRetrocediendo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NDados.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NumeroDeApariciones.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NumeroMenorArreglo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PotenciaNumero12.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ReccorrerMatriz2.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.ReccorrerMatriz8.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.RecorrerArreglo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RecorrerMatriz.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SumaDeCifras.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SumaDeDiagonal8.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SumaDeDiagonal9.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SumaMatriz11.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;Jordy-Portatil&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/DiazJ/Documents/Universidad/Programacion 3/GitHub/Talleres/TallereParcial1&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/DiazJ/Documents/Universidad/Programacion 3/GitHub/Talleres/TallereParcial1/src/main/java/org/example/Main.java&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.CantidadCifras.executor": "Run",
+    "Application.ContarCerosArreglo.executor": "Run",
+    "Application.DigonalMatriz13.executor": "Run",
+    "Application.InvertirPalabra.executor": "Run",
+    "Application.InvertirPalabra10.executor": "Run",
+    "Application.Laberinto.executor": "Run",
+    "Application.MatrizRetrocediendo.executor": "Run",
+    "Application.NDados.executor": "Run",
+    "Application.NumeroDeApariciones.executor": "Run",
+    "Application.NumeroMenorArreglo.executor": "Run",
+    "Application.PotenciaNumero12.executor": "Run",
+    "Application.ReccorrerMatriz2.executor": "Debug",
+    "Application.ReccorrerMatriz8.executor": "Debug",
+    "Application.RecorrerArreglo.executor": "Run",
+    "Application.RecorrerMatriz.executor": "Run",
+    "Application.SumaDeCifras.executor": "Run",
+    "Application.SumaDeDiagonal8.executor": "Run",
+    "Application.SumaDeDiagonal9.executor": "Run",
+    "Application.SumaMatriz11.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/DiazJ/Documents/Universidad/Programacion 3/GitHub/Talleres/TallereParcial1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/DiazJ/Documents/Universidad/Programacion 3/GitHub/Talleres/TallereParcial1/src/main/java/org/example/Main.java",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Application.DigonalMatriz13">
     <configuration name="DigonalMatriz13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.DigonalMatriz13" />
