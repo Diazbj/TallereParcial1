@@ -1,6 +1,6 @@
 package org.example;
 
-public class SumaDeCifras {
+public class SumaDeCifras4 {
 
     public static void main(String[] args){
 

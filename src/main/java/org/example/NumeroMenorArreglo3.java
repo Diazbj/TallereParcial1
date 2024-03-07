@@ -1,6 +1,6 @@
 package org.example;
 
-public class NumeroMenorArreglo {
+public class NumeroMenorArreglo3 {
 
     public static void main(String[] args){
         int indice=0;

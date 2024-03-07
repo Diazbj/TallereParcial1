@@ -1,6 +1,6 @@
 package org.example;
 
-public class NumeroDeApariciones {
+public class NumeroDeApariciones5 {
 
      public static void main(String[] args){
          int[] arreglo={1,1,2,2,2,0,12};

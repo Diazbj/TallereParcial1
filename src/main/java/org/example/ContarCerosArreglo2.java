@@ -1,8 +1,6 @@
 package org.example;
 
-import java.lang.reflect.Array;
-
-public class ContarCerosArreglo {
+public class ContarCerosArreglo2 {
 
     public static void main(String[] args){
 
