@@ -5,20 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="251fbe0d-16c9-450b-a16a-6fd0c728a95a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Backtraking/NDados.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/DigonalMatriz13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/PotenciaNumero12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/SumaMatriz11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/NumeroVector14.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/CantidadCifras.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/CantidadCifras1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ContarCerosArreglo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/ContarCerosArreglo2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/InvertirPalabra.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/InvertirPalabra10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/NumeroDeApariciones.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/NumeroDeApariciones5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/NumeroMenorArreglo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/NumeroMenorArreglo3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ReccorrerMatriz2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/ReccorrerMatriz8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/RecorrerArreglo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/RecorrerArreglo6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/SumaDeCifras.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/SumaDeCifras4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/DigonalMatriz13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/DigonalMatriz13.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -193,6 +182,7 @@
       <workItem from="1709583049471" duration="4475000" />
       <workItem from="1709613530840" duration="9384000" />
       <workItem from="1709666548978" duration="5000" />
+      <workItem from="1709707736181" duration="1660000" />
     </task>
     <servers />
   </component>
