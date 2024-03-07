@@ -2,7 +2,7 @@ package org.example;
 
 //Hallar la cantidad de cifras de un numero entero.
 
-public class CantidadCifras {
+public class CantidadCifras1 {
     public static void main(String[] args) {
 
         int n=1234567891;

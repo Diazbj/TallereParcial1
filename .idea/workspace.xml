@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="251fbe0d-16c9-450b-a16a-6fd0c728a95a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/RecorrerMatriz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/NumeroVector14.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/DigonalMatriz13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/DigonalMatriz13.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,30 +33,118 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.CantidadCifras.executor": "Run",
-    "Application.ContarCerosArreglo.executor": "Run",
-    "Application.NumeroDeApariciones.executor": "Run",
-    "Application.NumeroMenorArreglo.executor": "Run",
-    "Application.RecorrerArreglo.executor": "Run",
-    "Application.RecorrerMatriz.executor": "Run",
-    "Application.SumaDeCifras.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Jordy-Portatil",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/DiazJ/Documents/Universidad/Programacion 3/GitHub/Talleres/TallereParcial1",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/DiazJ/Documents/Universidad/Programacion 3/GitHub/Talleres/TallereParcial1/src/main/java/org/example/Main.java",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.CantidadCifras.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ContarCerosArreglo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DigonalMatriz13.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InvertirPalabra.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InvertirPalabra10.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Laberinto.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MatrizRetrocediendo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NDados.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NumeroDeApariciones.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NumeroMenorArreglo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PotenciaNumero12.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReccorrerMatriz2.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.ReccorrerMatriz8.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.RecorrerArreglo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RecorrerMatriz.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumaDeCifras.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumaDeDiagonal8.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumaDeDiagonal9.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumaMatriz11.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Jordy-Portatil&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/DiazJ/Documents/Universidad/Programacion 3/GitHub/Talleres/TallereParcial1&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/DiazJ/Documents/Universidad/Programacion 3/GitHub/Talleres/TallereParcial1/src/main/java/org/example/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager" selected="Application.DigonalMatriz13">
+    <configuration name="DigonalMatriz13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.DigonalMatriz13" />
+      <module name="TallereParcial1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InvertirPalabra10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.InvertirPalabra10" />
+      <module name="TallereParcial1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PotenciaNumero12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.PotenciaNumero12" />
+      <module name="TallereParcial1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReccorrerMatriz8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.ReccorrerMatriz8" />
+      <module name="TallereParcial1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SumaMatriz11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.SumaMatriz11" />
+      <module name="TallereParcial1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DigonalMatriz13" />
+        <item itemvalue="Application.PotenciaNumero12" />
+        <item itemvalue="Application.SumaMatriz11" />
+        <item itemvalue="Application.ReccorrerMatriz8" />
+        <item itemvalue="Application.InvertirPalabra10" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -77,7 +166,23 @@
       <workItem from="1708410674743" duration="1927000" />
       <workItem from="1708470584439" duration="212000" />
       <workItem from="1708470839504" duration="99000" />
-      <workItem from="1708586222972" duration="4871000" />
+      <workItem from="1708586222972" duration="4917000" />
+      <workItem from="1708634430159" duration="456000" />
+      <workItem from="1708635644113" duration="63000" />
+      <workItem from="1708642698719" duration="2004000" />
+      <workItem from="1708650075562" duration="192000" />
+      <workItem from="1708654539039" duration="298000" />
+      <workItem from="1708655400561" duration="151000" />
+      <workItem from="1708673235344" duration="31000" />
+      <workItem from="1709014856063" duration="18000" />
+      <workItem from="1709020802081" duration="4309000" />
+      <workItem from="1709079317533" duration="1785000" />
+      <workItem from="1709537866814" duration="2753000" />
+      <workItem from="1709575829235" duration="3271000" />
+      <workItem from="1709583049471" duration="4475000" />
+      <workItem from="1709613530840" duration="9384000" />
+      <workItem from="1709666548978" duration="5000" />
+      <workItem from="1709707736181" duration="1660000" />
     </task>
     <servers />
   </component>
@@ -87,20 +192,53 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/RecorrerMatriz.java</url>
-          <line>42</line>
-          <option name="timeStamp" value="20" />
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/SumaMatriz11.java</url>
+          <line>16</line>
+          <properties class="org.example.SumaMatriz11" method="SumarElementosMatriz">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="17" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/RecorrerMatriz.java</url>
-          <line>35</line>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/PotenciaNumero12.java</url>
+          <line>11</line>
+          <properties class="org.example.PotenciaNumero12" method="CalcularPotencia">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
           <option name="timeStamp" value="21" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/RecorrerMatriz.java</url>
-          <line>34</line>
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/SumaMatriz11.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/SumaMatriz11.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/SumaMatriz11.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/PotenciaNumero12.java</url>
+          <line>13</line>
           <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/PotenciaNumero12.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/PotenciaNumero12.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="24" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

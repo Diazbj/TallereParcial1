@@ -2,7 +2,7 @@ package org.example;
 
 import java.util.Arrays;
 
-public class RecorrerArreglo {
+public class RecorrerArreglo6 {
 
     public static void main(String[] args){
 
@@ -21,7 +21,7 @@ public class RecorrerArreglo {
 
     }
 
-    private static int[] ArregloInvertido(int[] arreglo, int indice,int tamaño,int[] arregloFinal) {
+    public static int[] ArregloInvertido(int[] arreglo, int indice,int tamaño,int[] arregloFinal) {
 
 
 
