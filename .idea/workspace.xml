@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="049d6b37-7c14-4bef-bdbc-2622f5674974" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Preparcial1/Carcel.java" afterDir="false" />
+    <list default="true" id="8a19698d-0e76-4587-960c-718476f36495" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Preparcial1/MatrizPalabras.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Preparcial1/MatrizTranspuesta.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Backtraking/Laberinto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Backtraking/Laberinto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Preparcial1/Carcel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Preparcial1/Carcel.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,18 +36,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Application.ArrayDescendente20.executor": "Debug",
-    "Application.Carcel.executor": "Run",
-    "Application.NumeroPrimo19.executor": "Run",
-    "Application.PotenciaDosNumeros18.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Jordy-Portatil",
+    "git-widget-placeholder": "Merging Jordy-Portatil",
     "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }

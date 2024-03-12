@@ -1,92 +1,82 @@
 package org.example.Preparcial1;
 
 public class Carcel {
-    public char[][] Carcel ={
-            {'#', '#', '#', '#', '#', '#', '#', '#', '#', '#'},
-            {'#', ' ', '#', ' ', ' ', ' ', ' ', ' ', ' ', '#'},
-            {'#', ' ', '#', ' ', '#', '#', '#', '#', '#', '#'},
-            {'#', ' ', ' ', ' ', '#', ' ', ' ', ' ', ' ', '#'},
-            {'#', '#', '#', ' ', ' ', ' ', '#', '#', '#', '#'},
-            {'#', ' ', ' ', ' ', '#', ' ', ' ', ' ', ' ', '#'},
-            {'#', ' ', '#', '#', '#', ' ', '#', '#', '#', '#'},
-            {'#', ' ', ' ', ' ', '#', ' ', '#', ' ', '#', '#'},
-            {'#', ' ', '#', ' ', ' ', ' ', ' ', ' ', ' ', '#'},
-            {'#', '#', '#', '#', '#', '#', '#', '#', '#', '#'},
-    };
-
-
-    /* --------------------- PRUEBA DEL ALGORITMO --------------------- */
+    
     public static void main(String[] args) {
-        Carcel m = new Carcel(); 												// construimos un objeto de la clase Laberinto por defecto
-        m.Carcel[8][1] = 'X'; 													// introducimos en este caso, la salida (X) en las coordenadas (1,1)
-        m.resuelve(1, 1); 															// ahora, introducimos la entrada (S) en las coordenadas (8,1) y llamamos al algoritmo
-        System.out.println(m.imprimirCarcel()); 								    // imprimimos el laberinto ya resuelto (si tiene solución)
-    }
+        Carcel c = new Carcel();
+        c.carcel[5][7] = 'c';
+        c.resolver(0, 0);
 
-
-
-
-    /* ----------------- IMPLEMENTACIÓN DEL ALGORITMO ----------------- */
-    public void resuelve(int x, int y){ 				// permite introducir unas coordenadas (x, y)
-        if (paso(x, y)) { 								// intentará resolver el laberinto en estas coordenadas
-            Carcel[x][y] = 'S'; 						// introduce en las coordenadas (x, y) la entrada
+        if(26-contarPreso<=0){
+            System.out.println("No se escaparon presos");
+        }else {
+            System.out.println("la cantida de presos que escaparon son:  " + (26 - contarPreso));
         }
+
+
+
+        // imprimir matriz
+        System.out.println(c.imprimirCarcel());
     }
 
-    private boolean paso(int x, int y)
-    {
-        if(x<0||y<0||x> Carcel.length-1||y> Carcel[x].length-1){
+        public static int contarPreso;
+        public static char[][] carcel = {
+                {' ', 'p', 'p', ' ', 'p', 'p', ' ', 'p'},
+                {' ', 'p', 'p', ' ', 'p', 'p', ' ', 'p'},
+                {' ', ' ', ' ', ' ', ' ', ' ', ' ', ' '},
+                {'p', ' ', 'p', 'p', ' ', 'p', 'p', ' '},
+                {'p', ' ', 'p', 'p', ' ', 'p', 'p', ' '},
+                {' ', ' ', ' ', ' ', ' ', ' ', ' ', ' '},
+                {'p', 'p', 'p', ' ', 'p', 'p', ' ', 'p'},
+        };
+
+        public void resolver ( int x, int y){
+            if (contarPresos(x, y)) {
+                carcel[0][0] = 'S';
+            }
+        }
+
+        public static boolean contarPresos ( int x, int y){
+
+            if (x < 0 || x > carcel.length - 1 || y < 0 || y > carcel[x].length - 1) {
+                return false;
+            }
+
+            if (carcel[x][y] == 'p') {
+                contarPreso++;
+                carcel[x][y] = 'P';
+                return false;
+
+            }
+            if (carcel[x][y] == 'x' || carcel[x][y] == '*' || carcel[x][y] == 'c' || carcel[x][y] == 'P') {
+                return false;
+            }
+
+            carcel[x][y] = '*';
+            //System.out.println(imprimirCarcel());
+
+
+            contarPresos(x, y + 1);
+
+            contarPresos(x + 1, y);
+
+            contarPresos(x - 1, y);
+
+            contarPresos(x, y - 1);
+
             return false;
         }
-        if (Carcel[x][y]=='X'){ // si hemos llegado a X quiere decir que hemos encontrado solución
-            System.out.println(imprimirCarcel());
-            return false; // luego, el algoritmo termina
-        }
-
-
-        if (Carcel[x][y]=='#'|| Carcel[x][y]=='*' || Carcel[x][y]=='f') { // si llegamos a una pared o al mismo punto,
-            return false; // entonces el laberinto no puede resolverse y termina.
-        }
-
-        // si no se cumple ninguna de estas dos situaciones, quiere decir que nos encontramos en un
-        // caso intermedio, por lo tanto, que empezamos a recorrer o todavía no hemos llegado a nada
-        Carcel[x][y]='*'; // marcamos la posición como visitada (si es la primera, en las coordenadas x e y
-
-        boolean result; // se coloca S de START)
-
-        result=paso(x-1, y); // intentamos ir hacia ARRIBA. Segunda llamada recursiva
-        if (result) return true; // si el resultado es el final, entonces el algoritmo termina
-
-        result=paso(x, y-1); // intentamos ir hacia la IZQUIERDA. Tercera llamada recursiva
-        if (result) return true; // si el resultado es el final, entonces el algoritmo termina
-
-        result=paso(x, y+1); // intentamos ir hacia la DERECHA. Primera llamada recursiva
-        if (result)return true; // si el resultado es el final, entonces el algoritmo termina
-
-        result=paso(x+1, y); // intentamos ir hacia ABAJO. Cuarta llamada recursiva
-        if (result) return true; // si el resultado es el final, entonces el algoritmo termina
-
-
-
-
-        // si no hemos encontrado la solución en estos cuatros movimientos, volvemos atrás, aunque hay que
-        // considerar que en este punto, todas las llamadas recursivas han finalizado. Si en ninguna de ellas
-        // se ha conseguido el éxito, entonces el algoritmo termina y devuelve false.
-        Carcel[x][y]='f'; // en el caso de no ser el resultado, se marca con +. Ya fue pisado
-        return false; // vuelta atrás si la solución no se encuentra aquí
-
-
-    }
-
-    private String imprimirCarcel() { // imprimiremos nuestra solución. Debido a que la clase Arrays no tiene implementado
-        String salida = "";    // un método toString para arrays bidimensionales, lo programamos a mano
-        for (int x = 0; x< Carcel.length; x++) { // recorremos filas
-            for (int y = 0; y< Carcel[x].length; y++) { // recorremos columnas
-                salida += Carcel[x][y] + " "; // output es nuestra variable que va almacenando los valores a imprimir
+        private static String imprimirCarcel()
+        { // imprimiremos nuestra solución. Debido a que la clase Arrays no tiene implementado
+            String salida = "";    // un método toString para arrays bidimensionales, lo programamos a mano
+            for (int x = 0; x < carcel.length; x++) { // recorremos filas
+                for (int y = 0; y < carcel[x].length; y++) { // recorremos columnas
+                    salida += carcel[x][y] + " "; // output es nuestra variable que va almacenando los valores a imprimir
+                }
+                salida += "\n"; // devolvemos esta variable con un salto de línea
             }
-            salida += "\n"; // devolvemos esta variable con un salto de línea
+            return salida;
         }
-        return salida;
-    }
+
 }
 
