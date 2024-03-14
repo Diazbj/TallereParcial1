@@ -5,22 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8a19698d-0e76-4587-960c-718476f36495" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Preparcial1/ContarVocales.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Preparcial1/Gonzalo/Carcel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Preparcial1/Gonzalo/EdadPersonas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Preparcial1/Gonzalo/FuncionX.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Preparcial1/Gonzalo/MatrizPalabras.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Preparcial1/Gonzalo/MatrizTranspuesta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Preparcial1/Gonzalo/Parqueadero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Preparcial1/Gonzalo/Persona.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Preparcial1/MarcarExcepciones.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Preparcial1/MarcarExcepciones2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Preparcial1/MatrizPersonas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Preparcial1/Parqueadero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Preparcial1/PersonasEdad/EdadPersonas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Preparcial1/PersonasEdad/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/RepositorioProfesor/E1_EjercicioPractica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/RepositorioProfesor/EP_01_cifrasNumeroEntero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/RepositorioProfesor/EP_02_cantidadCeros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/RepositorioProfesor/EP_03_numeroMenorArreglo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/RepositorioProfesor/EP_04_sumaCifrasNumeroEntero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/RepositorioProfesor/EP_05_numeroApariciones.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/RepositorioProfesor/EP_06_recorrerArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/RepositorioProfesor/EP_07_buscarElementoEnArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/RepositorioProfesor/EP_08_recorreMatriz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/RepositorioProfesor/EP_09_invertirPalabra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/RepositorioProfesor/EP_10_sumarMatriz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/RepositorioProfesor/EP_11_potenciaNumero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/RepositorioProfesor/EP_12_sumarDiagonalMatriz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/RepositorioProfesor/EP_13_conteoEnteroVector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/RepositorioProfesor/EP_Matriz_Varios.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/RepositorioProfesor/E_2_Recorrer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Preparcial1/MatrizPalabras.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Preparcial1/MatrizPalabras.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +51,7 @@
   "keyToString": {
     "Application.Carcel.executor": "Run",
     "Application.ContarVocales.executor": "Run",
+    "Application.E1_EjercicioPractica.executor": "Run",
     "Application.EdadPersonas.executor": "Run",
     "Application.Laberinto.executor": "Run",
     "Application.MatrizPalabras.executor": "Run",
@@ -66,6 +68,26 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="E1_EjercicioPractica" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.RepositorioProfesor.E1_EjercicioPractica" />
+      <module name="TallereParcial1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.RepositorioProfesor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.E1_EjercicioPractica" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -88,7 +110,8 @@
       <workItem from="1709963649308" duration="340000" />
       <workItem from="1709964090844" duration="2069000" />
       <workItem from="1710281393780" duration="8645000" />
-      <workItem from="1710361043928" duration="6465000" />
+      <workItem from="1710361043928" duration="6830000" />
+      <workItem from="1710406351434" duration="373000" />
     </task>
     <servers />
   </component>
