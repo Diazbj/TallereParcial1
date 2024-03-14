@@ -6,7 +6,7 @@ import java.util.List;
 public class MatrizPalabras {
 
     public static void main(String[] args) {
-        String[][] matriz = {{"vacio", "carro", "baul", "perro"},
+        String[][] matriz = {{"vacio", "carro","perro" , "baul"},
                 {"colombia", "casa", "moto", "caza"},
                 {"llanta", "reir", "archivo", "silla"},
                 {"cocina", "ola", "ave", "freir"}};
@@ -21,6 +21,9 @@ public class MatrizPalabras {
         } else {
             System.out.print(" " + matriz[i][j]);
             if (j == matriz[i].length - 1) {
+                if (verificarVocalesSeguidas(matriz[i][j], 0, 0)) {
+                    palabras.add(matriz[i][j]);
+                }
                 i++;
                 j = 0;
                 System.out.println("");

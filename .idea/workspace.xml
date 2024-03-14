@@ -5,10 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8a19698d-0e76-4587-960c-718476f36495" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Preparcial1/MatrizPalabras.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Preparcial1/MatrizTranspuesta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Preparcial1/ContarVocales.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Preparcial1/Gonzalo/Carcel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Preparcial1/Gonzalo/EdadPersonas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Preparcial1/Gonzalo/FuncionX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Preparcial1/Gonzalo/MatrizPalabras.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Preparcial1/Gonzalo/MatrizTranspuesta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Preparcial1/Gonzalo/Parqueadero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Preparcial1/Gonzalo/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Preparcial1/MarcarExcepciones.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Preparcial1/MarcarExcepciones2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Preparcial1/MatrizPersonas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Preparcial1/Parqueadero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Preparcial1/PersonasEdad/EdadPersonas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Preparcial1/PersonasEdad/Persona.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Preparcial1/Carcel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Preparcial1/Carcel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Preparcial1/MatrizPalabras.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Preparcial1/MatrizPalabras.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,10 +48,20 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Carcel.executor": "Run",
+    "Application.ContarVocales.executor": "Run",
+    "Application.EdadPersonas.executor": "Run",
+    "Application.Laberinto.executor": "Run",
+    "Application.MatrizPalabras.executor": "Run",
+    "Application.Parqueadero.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Merging Jordy-Portatil",
+    "git-widget-placeholder": "Jordy-Portatil",
     "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -54,7 +76,7 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="049d6b37-7c14-4bef-bdbc-2622f5674974" name="Changes" comment="" />
+      <changelist id="8a19698d-0e76-4587-960c-718476f36495" name="Changes" comment="" />
       <created>1709834291306</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -65,6 +87,8 @@
       <workItem from="1709874137120" duration="24000" />
       <workItem from="1709963649308" duration="340000" />
       <workItem from="1709964090844" duration="2069000" />
+      <workItem from="1710281393780" duration="8645000" />
+      <workItem from="1710361043928" duration="6465000" />
     </task>
     <servers />
   </component>
@@ -83,10 +107,34 @@
           </properties>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Preparcial1/MatrizPalabras.java</url>
+          <line>17</line>
+          <properties class="org.example.Preparcial1.MatrizPalabras" method="recorrerMatriz">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/org/example/ArrayDescendente20.java</url>
           <line>18</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Preparcial1/MatrizPalabras.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Preparcial1/MatrizPalabras.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Preparcial1/MatrizPalabras.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
